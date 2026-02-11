@@ -1,0 +1,10 @@
+{
+  "id": "neet_ug",
+  "title": "NEET UG",
+  "conducting_body": "NTA",
+  "eligibility": "Class 12 with PCB",
+  "max_attempts": "No limit",
+  "age_limit_min": 17,
+  "difficulty_level": 5,
+  "description": "National level entrance exam for MBBS and other medical courses."
+}

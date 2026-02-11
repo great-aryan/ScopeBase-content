@@ -1,0 +1,23 @@
+{
+  "id": "doctor",
+  "title": "Doctor",
+  "category": "medical",
+  "description": "A medical professional who diagnoses, treats and prevents diseases.",
+  "stage_entry": ["class_12"],
+  "stream_required": ["science_pcb"],
+  "required_exams": ["neet_ug"],
+  "duration_years_min": 5,
+  "difficulty_level": 5,
+  "competition_level": 5,
+  "financial_investment_level": 4,
+  "salary_range_lpa": {
+    "min": 8,
+    "max": 20
+  },
+  "advisory_notes": [
+    "Requires strong interest in biology",
+    "Long study duration",
+    "Highly competitive"
+  ],
+  "future_scope_rating": 4
+}

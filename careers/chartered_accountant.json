@@ -1,0 +1,23 @@
+{
+  "id": "chartered_accountant",
+  "title": "Chartered Accountant",
+  "category": "finance",
+  "description": "A finance professional specializing in accounting, auditing and taxation.",
+  "stage_entry": ["class_12"],
+  "stream_required": ["commerce"],
+  "required_exams": ["ca_foundation"],
+  "duration_years_min": 4,
+  "difficulty_level": 5,
+  "competition_level": 4,
+  "financial_investment_level": 3,
+  "salary_range_lpa": {
+    "min": 7,
+    "max": 25
+  },
+  "advisory_notes": [
+    "Strong analytical skills required",
+    "Requires persistence and discipline",
+    "Low upfront investment compared to MBA"
+  ],
+  "future_scope_rating": 4
+}
